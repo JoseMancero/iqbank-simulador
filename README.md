@@ -1,3 +1,0 @@
-﻿# iqbank-simulador
-# iqbank-simulador
-
